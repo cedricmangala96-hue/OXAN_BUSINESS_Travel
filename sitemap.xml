@@ -1,11 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://cedricmangala96-hue.github.io/OXAN-BUSINESS-Travel/</loc></url>
-<url><loc>https://cedricmangala96-hue.github.io/OXAN-BUSINESS-Travel/destinations.html</loc></url>
-<url><loc>https://cedricmangala96-hue.github.io/OXAN-BUSINESS-Travel/conseils.html</loc></url>
-<url><loc>https://cedricmangala96-hue.github.io/OXAN-BUSINESS-Travel/articles.html</loc></url>
-<url><loc>https://cedricmangala96-hue.github.io/OXAN-BUSINESS-Travel/a-propos.html</loc></url>
-<url><loc>https://cedricmangala96-hue.github.io/OXAN-BUSINESS-Travel/contact.html</loc></url>
-<url><loc>https://cedricmangala96-hue.github.io/OXAN-BUSINESS-Travel/politique-confidentialite.html</loc></url>
-<url><loc>https://cedricmangala96-hue.github.io/OXAN-BUSINESS-Travel/mentions-legales.html</loc></url>
-<url><loc>https://cedricmangala96-hue.github.io/OXAN-BUSINESS-Travel/articles/10-destinations-rdc.html</loc></url><url><loc>https://cedricmangala96-hue.github.io/OXAN-BUSINESS-Travel/articles/premier-voyage-rdc.html</loc></url><url><loc>https://cedricmangala96-hue.github.io/OXAN-BUSINESS-Travel/articles/budget-kinshasa.html</loc></url><url><loc>https://cedricmangala96-hue.github.io/OXAN-BUSINESS-Travel/articles/weekend-kinshasa.html</loc></url><url><loc>https://cedricmangala96-hue.github.io/OXAN-BUSINESS-Travel/articles/goma-guide.html</loc></url><url><loc>https://cedricmangala96-hue.github.io/OXAN-BUSINESS-Travel/articles/kongo-central-guide.html</loc></url><url><loc>https://cedricmangala96-hue.github.io/OXAN-BUSINESS-Travel/articles/virunga-guide.html</loc></url><url><loc>https://cedricmangala96-hue.github.io/OXAN-BUSINESS-Travel/articles/quand-voyager-rdc.html</loc></url><url><loc>https://cedricmangala96-hue.github.io/OXAN-BUSINESS-Travel/articles/transport-rdc.html</loc></url><url><loc>https://cedricmangala96-hue.github.io/OXAN-BUSINESS-Travel/articles/guide-pratique-voyager-rdc.html</loc></url></urlset>
+
+  <url>
+    <loc>https://cedricmangala96-hue.github.io/OXAN_BUSINESS_Travel/</loc>
+  </url>
+
+  <url>
+    <loc>https://cedricmangala96-hue.github.io/OXAN_BUSINESS_Travel/destinations.html</loc>
+  </url>
+
+  <url>
+    <loc>https://cedricmangala96-hue.github.io/OXAN_BUSINESS_Travel/conseils.html</loc>
+  </url>
+
+  <url>
+    <loc>https://cedricmangala96-hue.github.io/OXAN_BUSINESS_Travel/articles.html</loc>
+  </url>
+
+  <url>
+    <loc>https://cedricmangala96-hue.github.io/OXAN_BUSINESS_Travel/a-propos.html</loc>
+  </url>
+
+  <url>
+    <loc>https://cedricmangala96-hue.github.io/OXAN_BUSINESS_Travel/contact.html</loc>
+  </url>
+
+  <url>
+    <loc>https://cedricmangala96-hue.github.io/OXAN_BUSINESS_Travel/politique-confidentialite.html</loc>
+  </url>
+
+  <url>
+    <loc>https://cedricmangala96-hue.github.io/OXAN_BUSINESS_Travel/mentions-legales.html</loc>
+  </url>
+
+  <url>
+    <loc>https://cedricmangala96-hue.github.io/OXAN_BUSINESS_Travel/articles/10-destinations-rdc.html</loc>
+  </url>
+
+  <url>
+    <loc>https://cedricmangala96-hue.github.io/OXAN_BUSINESS_Travel/articles/premier-voyage-rdc.html</loc>
+  </url>
+
+  <url>
+    <loc>https://cedricmangala96-hue.github.io/OXAN_BUSINESS_Travel/articles/budget-kinshasa.html</loc>
+  </url>
+
+  <url>
+    <loc>https://cedricmangala96-hue.github.io/OXAN_BUSINESS_Travel/articles/weekend-kinshasa.html</loc>
+  </url>
+
+  <url>
+    <loc>https://cedricmangala96-hue.github.io/OXAN_BUSINESS_Travel/articles/goma-guide.html</loc>
+  </url>
+
+  <url>
+    <loc>https://cedricmangala96-hue.github.io/OXAN_BUSINESS_Travel/articles/kongo-central-guide.html</loc>
+  </url>
+
+  <url>
+    <loc>https://cedricmangala96-hue.github.io/OXAN_BUSINESS_Travel/articles/virunga-guide.html</loc>
+  </url>
+
+  <url>
+    <loc>https://cedricmangala96-hue.github.io/OXAN_BUSINESS_Travel/articles/quand-voyager-rdc.html</loc>
+  </url>
+
+  <url>
+    <loc>https://cedricmangala96-hue.github.io/OXAN_BUSINESS_Travel/articles/transport-rdc.html</loc>
+  </url>
+
+  <url>
+    <loc>https://cedricmangala96-hue.github.io/OXAN_BUSINESS_Travel/articles/guide-pratique-voyager-rdc.html</loc>
+  </url>
+
+</urlset>
