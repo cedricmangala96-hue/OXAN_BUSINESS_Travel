@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://cedricmangala96-hue.github.io/OXAN-BUSINESS-Travel/sitemap.xml
+
+Sitemap: https://cedricmangala96-hue.github.io/OXAN_BUSINESS_Travel/sitemap.xml
